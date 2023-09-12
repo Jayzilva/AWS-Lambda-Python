@@ -1,3 +1,7 @@
+### AWS Lambda Function - using arguments
+
+- Python 3.11 as Runtime
+
 `def lambda_handler(event, context):`
 
 **lambda_handler** 
